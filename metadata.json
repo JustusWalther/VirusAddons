@@ -1,0 +1,9 @@
+{
+    "name": "VirusAddons",
+    "description": "QOL without chesters" ,
+    "helpMessage": "§6Use /virus",
+    "author": "LegendaryVirus",
+    "entry": "index.js",
+    "version": "0.0.1",
+    "requires": ["PersistentData"]
+  }
